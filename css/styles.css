@@ -1,0 +1,24 @@
+#app {
+	margin-top: 60px;
+	text-align: center;
+	font-size: 40px;
+	letter-spacing: 5px;
+	color: #aaa;
+}
+
+.row.current {
+	color: #222;
+	font-size: 60px;
+}
+
+.key.current {
+	color: orange;
+}
+
+.key.false {
+	color: red;
+}
+
+.key.correct {
+	color: green;
+}
